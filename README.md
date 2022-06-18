@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...Coding and learning new stuff.
 - 🌱 I’m currently learning ...C,C++,HTML&CSS
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...nikhilgautam55863@gmail.com
+- 📫 How to reach me ... <a href="https://www.instagram.com/nikgautamig/">@nikgautamig</a>
 
 <!---
 NikhilGautam1234/NikhilGautam1234 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
